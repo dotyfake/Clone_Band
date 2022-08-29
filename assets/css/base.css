@@ -1,0 +1,44 @@
+:root {
+    --white-color: #fff;
+    --black-color: #000;
+    --text-color: #333;
+    --primary-color: rgb(200, 55, 51);
+    --border-color: #dbdbdb;
+    --star-gold-color: #FFCE3E;
+    --hover-btn: #CCCCCC;
+
+    --header-height: 46px;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+*::before,*::after{
+    box-sizing: inherit;
+}
+
+
+html {
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Lato', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    list-style: none;
+}
+
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+    padding: 0;
+}

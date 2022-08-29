@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["7peCX"]); }
+
+__d("CometBoldedEntityRenderer",["React"],(function(a,b,c,d,e,f){"use strict";e.exports=a;var g=b("React");function a(a,b){return g.jsx("strong",{children:a})}}),null);
